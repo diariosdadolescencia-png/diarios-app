@@ -1,10 +1,8 @@
-manifest.json
-
 {
   "name": "Diários da Adolescência",
   "short_name": "Diários 1976",
   "description": "O diário e as crónicas de um adolescente nos anos 70.",
-  "start_url": "https://https://diarios-da-adolescencia.blogspot.com/?utm_source=pwa",
+  "start_url": "https://diariosdadolescencia-png.github.io/diarios-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2c3e50",
