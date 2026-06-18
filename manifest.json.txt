@@ -1,0 +1,24 @@
+manifest.json
+
+{
+  "name": "Diários da Adolescência",
+  "short_name": "Diários 1976",
+  "description": "O diário e as crónicas de um adolescente nos anos 70.",
+  "start_url": "https://https://diarios-da-adolescencia.blogspot.com/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/192/3251/3251520.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3251/3251520.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
